@@ -1,9 +1,9 @@
-Name:
+Name: Jesse Christiansen
 
 Compilation and Run Successful:
-
+Run Ok
 Unit Test Run Successfully:
-
+Run Ok
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
 
